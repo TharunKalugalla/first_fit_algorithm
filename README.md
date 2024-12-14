@@ -24,7 +24,7 @@ pip install matplotlib
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/first-fit-memory-allocator.git
+git clone https://github.com/TharunKalugalla/first_fit_algorithm.git
 ```
 2. Navigate to the project directory:
 ```bash
